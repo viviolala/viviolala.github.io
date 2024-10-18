@@ -4,7 +4,7 @@ collection: Cell Death & Disease
 category: manuscripts
 permalink: https://doi.org/10.1038/s41419-022-04598-y 
 date: 2022-03-09
-venue: 'Journal 1'
+venue: 'Cell Death & Disease'
 paperurl: 'http://viviolala.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
