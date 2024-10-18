@@ -1,13 +1,11 @@
 ---
-title: "Paper Title Number 1"
-collection: publications
+title: "SGSM2 inhibits thyroid cancer progression by activating RAP1 and enhancing competitive RAS inhibition"
+collection: Cell Death & Disease
 category: manuscripts
-permalink: /publication/2009-10-01-paper-title-number-1
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
+permalink: https://doi.org/10.1038/s41419-022-04598-y 
+date: 2022-03-09
 venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'http://viviolala.github.io/files/paper3.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
