@@ -6,7 +6,6 @@ permalink: https://doi.org/10.1038/s41419-022-04598-y
 date: 2022-03-09
 venue: 'Cell Death & Disease'
 paperurl: 'http://viviolala.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+citation: ' Su, X., Chen, D., Zhu, L., Jia, H., Cai, J., Li, P., Han, B., Wang, D., Li, H., Fan, J., Gu, M., Zhou, Y., Guan, H., & Wei, W. (2022). SGSM2 inhibits thyroid cancer progression by activating RAP1 and enhancing competitive RAS inhibition. Cell Death & Disease, 13(3). https://doi.org/10.1038/s41419-022-04598-y '
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
